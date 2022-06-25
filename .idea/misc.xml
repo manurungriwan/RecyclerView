@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/praktekKotlin/RecyclerView3/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/praktekKotlin/RecyclerView3/app/src/main/res/layout/activity_splash_screen.xml" value="0.19583333333333333" />
         <entry key="..\:/praktekKotlin/RecyclerView3/app/src/main/res/layout/detail_data_pemain.xml" value="0.19583333333333333" />
         <entry key="..\:/praktekKotlin/RecyclerView3/app/src/main/res/layout/list_item_pemain.xml" value="0.19583333333333333" />
       </map>
